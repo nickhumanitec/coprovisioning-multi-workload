@@ -1,0 +1,105 @@
+timestamp,message
+1705693419763,"START RequestId: 49f71537-95b4-4e7a-b511-25bfa7d55df8 Version: $LATEST
+"
+1705693419763,"b'{""app"":""myapp"",""arn"":""arn:aws:s3:::myapp-development-backends320240119194337029000000001"",""env"":""development"",""local"":""myapp-development-backends3"",""name"":""myapp-development-modules.backend.externals.s3"",""res"":""modules.backend.externals.s3"",""type"":""s3""}'
+"
+1705693419764,"END RequestId: 49f71537-95b4-4e7a-b511-25bfa7d55df8
+"
+1705693419764,"REPORT RequestId: 49f71537-95b4-4e7a-b511-25bfa7d55df8	Duration: 1.09 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 38 MB	
+"
+1705693446968,"START RequestId: e591d012-ebf1-4451-909e-ab2bbbe03b83 Version: $LATEST
+"
+1705693446968,"b'{""app"":""myapp"",""arn"":""arn:aws:sqs:ca-central-1:667740703053:myapp-development-backendsqs20240119194340288600000002"",""env"":""development"",""local"":""myapp-development-backendsqs"",""name"":""myapp-development-modules.backend.externals.sqs"",""res"":""modules.backend.externals.sqs"",""type"":""sqs""}'
+"
+1705693446969,"END RequestId: e591d012-ebf1-4451-909e-ab2bbbe03b83
+"
+1705693446969,"REPORT RequestId: e591d012-ebf1-4451-909e-ab2bbbe03b83	Duration: 1.11 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 38 MB	
+"
+1705693463286,"START RequestId: ec90fb39-b58c-452c-bbe3-717175982b4e Version: $LATEST
+"
+1705693463286,"b'{""app"":""myapp"",""arn"":""arn:aws:iam::667740703053:policy/myapp-development-s3-policy20240119194422142000000001"",""arns"":[""arn:aws:s3:::myapp-development-backends320240119194337029000000001""],""env"":""development"",""local"":""myapp-development-s3-policy"",""name"":""myapp-development-s3-policy"",""res"":""s3-policy"",""type"":""policy s3""}'
+"
+1705693463287,"END RequestId: ec90fb39-b58c-452c-bbe3-717175982b4e
+"
+1705693463287,"REPORT RequestId: ec90fb39-b58c-452c-bbe3-717175982b4e	Duration: 1.03 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 38 MB	
+"
+1705693496098,"START RequestId: 85bb10a6-5d99-471c-baa7-d1c5f95b62c5 Version: $LATEST
+"
+1705693496098,"b'{""app"":""myapp"",""arn"":""arn:aws:iam::667740703053:policy/myapp-development-sqs-policy20240119194455036600000001"",""arns"":[""arn:aws:sqs:ca-central-1:667740703053:myapp-development-backendsqs20240119194340288600000002""],""env"":""development"",""local"":""myapp-development-sqs-policy"",""name"":""myapp-development-sqs-policy"",""res"":""sqs-policy"",""type"":""policy sqs""}'
+"
+1705693496099,"END RequestId: 85bb10a6-5d99-471c-baa7-d1c5f95b62c5
+"
+1705693496099,"REPORT RequestId: 85bb10a6-5d99-471c-baa7-d1c5f95b62c5	Duration: 1.08 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 38 MB	
+"
+1705693541143,"START RequestId: 713641dc-def4-465f-a921-bf2219441149 Version: $LATEST
+"
+1705693541144,"b'{""app"":""myapp"",""arn"":""arn:aws:iam::667740703053:role/myapp-development-backend"",""env"":""development"",""local"":""myapp-development-backend"",""name"":""myapp-development-modules.backend"",""policies"":[""arn:aws:iam::667740703053:policy/myapp-development-s3-policy20240119194422142000000001"",""arn:aws:iam::667740703053:policy/myapp-development-sqs-policy20240119194455036600000001""],""res"":""modules.backend"",""type"":""role""}'
+"
+1705693541144,"END RequestId: 713641dc-def4-465f-a921-bf2219441149
+"
+1705693541144,"REPORT RequestId: 713641dc-def4-465f-a921-bf2219441149	Duration: 1.05 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 38 MB	
+"
+1705693705912,"START RequestId: 5a5b3d5d-43b6-421b-a2b2-0fd38bd2437b Version: $LATEST
+"
+1705693705912,"b'{""app"":""myapp"",""arn"":""arn:aws:sqs:ca-central-1:667740703053:myapp-development-backendsqs20240119194340288600000002"",""env"":""development"",""local"":""myapp-development-backendsqs"",""name"":""myapp-development-modules.backend.externals.sqs"",""res"":""modules.backend.externals.sqs"",""type"":""sqs""}'
+"
+1705693705913,"END RequestId: 5a5b3d5d-43b6-421b-a2b2-0fd38bd2437b
+"
+1705693705913,"REPORT RequestId: 5a5b3d5d-43b6-421b-a2b2-0fd38bd2437b	Duration: 1.41 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 38 MB	
+"
+1705693710137,"START RequestId: dae43f2c-3895-48d2-a11a-a50a9d8c299b Version: $LATEST
+"
+1705693710138,"b'{""app"":""myapp"",""arn"":""arn:aws:s3:::myapp-development-backends320240119194337029000000001"",""env"":""development"",""local"":""myapp-development-backends3"",""name"":""myapp-development-modules.backend.externals.s3"",""res"":""modules.backend.externals.s3"",""type"":""s3""}'
+"
+1705693710138,"END RequestId: dae43f2c-3895-48d2-a11a-a50a9d8c299b
+"
+1705693710138,"REPORT RequestId: dae43f2c-3895-48d2-a11a-a50a9d8c299b	Duration: 1.13 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 38 MB	
+"
+1705693713260,"START RequestId: fd1e9155-8300-4c09-9289-0b125b692f24 Version: $LATEST
+"
+1705693713260,"b'{""app"":""myapp"",""arn"":""arn:aws:s3:::myapp-development-frontends3f20240119194830587800000001"",""env"":""development"",""local"":""myapp-development-frontends3f"",""name"":""myapp-development-modules.frontend.externals.s3f"",""res"":""modules.frontend.externals.s3f"",""type"":""s3""}'
+"
+1705693713261,"END RequestId: fd1e9155-8300-4c09-9289-0b125b692f24
+"
+1705693713261,"REPORT RequestId: fd1e9155-8300-4c09-9289-0b125b692f24	Duration: 1.15 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 38 MB	
+"
+1705693739326,"START RequestId: 09b4ae6b-e277-4459-995d-906baa5ce1f7 Version: $LATEST
+"
+1705693739326,"b'{""app"":""myapp"",""arn"":""arn:aws:sqs:ca-central-1:667740703053:myapp-development-frontendsqsf20240119194832690500000002"",""env"":""development"",""local"":""myapp-development-frontendsqsf"",""name"":""myapp-development-modules.frontend.externals.sqsf"",""res"":""modules.frontend.externals.sqsf"",""type"":""sqs""}'
+"
+1705693739327,"END RequestId: 09b4ae6b-e277-4459-995d-906baa5ce1f7
+"
+1705693739327,"REPORT RequestId: 09b4ae6b-e277-4459-995d-906baa5ce1f7	Duration: 1.13 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 38 MB	
+"
+1705693765478,"START RequestId: 346ffca1-48cb-4901-9ac3-107baa032b59 Version: $LATEST
+"
+1705693765479,"b'{""app"":""myapp"",""arn"":""arn:aws:iam::667740703053:policy/myapp-development-s3-policy20240119194422142000000001"",""arns"":[""arn:aws:s3:::myapp-development-backends320240119194337029000000001"",""arn:aws:s3:::myapp-development-frontends3f20240119194830587800000001""],""env"":""development"",""local"":""myapp-development-s3-policy"",""name"":""myapp-development-s3-policy"",""res"":""s3-policy"",""type"":""policy s3""}'
+"
+1705693765479,"END RequestId: 346ffca1-48cb-4901-9ac3-107baa032b59
+"
+1705693765479,"REPORT RequestId: 346ffca1-48cb-4901-9ac3-107baa032b59	Duration: 1.18 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 38 MB	
+"
+1705693791141,"START RequestId: edbe6e9e-8f34-4907-8c66-60d3b0f8d337 Version: $LATEST
+"
+1705693791142,"b'{""app"":""myapp"",""arn"":""arn:aws:iam::667740703053:policy/myapp-development-sqs-policy20240119194455036600000001"",""arns"":[""arn:aws:sqs:ca-central-1:667740703053:myapp-development-backendsqs20240119194340288600000002"",""arn:aws:sqs:ca-central-1:667740703053:myapp-development-frontendsqsf20240119194832690500000002""],""env"":""development"",""local"":""myapp-development-sqs-policy"",""name"":""myapp-development-sqs-policy"",""res"":""sqs-policy"",""type"":""policy sqs""}'
+"
+1705693791142,"END RequestId: edbe6e9e-8f34-4907-8c66-60d3b0f8d337
+"
+1705693791142,"REPORT RequestId: edbe6e9e-8f34-4907-8c66-60d3b0f8d337	Duration: 1.14 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 38 MB	
+"
+1705693836996,"START RequestId: 44bbb946-01dd-4679-b85b-6a57c9802de8 Version: $LATEST
+"
+1705693836997,"b'{""app"":""myapp"",""arn"":""arn:aws:iam::667740703053:role/myapp-development-backend"",""env"":""development"",""local"":""myapp-development-backend"",""name"":""myapp-development-modules.backend"",""policies"":[""arn:aws:iam::667740703053:policy/myapp-development-s3-policy20240119194422142000000001"",""arn:aws:iam::667740703053:policy/myapp-development-sqs-policy20240119194455036600000001""],""res"":""modules.backend"",""type"":""role""}'
+"
+1705693836998,"END RequestId: 44bbb946-01dd-4679-b85b-6a57c9802de8
+"
+1705693836998,"REPORT RequestId: 44bbb946-01dd-4679-b85b-6a57c9802de8	Duration: 1.12 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 38 MB	
+"
+1705693837207,"START RequestId: 8c63110a-9827-4907-8875-40f9abb86f87 Version: $LATEST
+"
+1705693837208,"b'{""app"":""myapp"",""arn"":""arn:aws:iam::667740703053:role/myapp-development-frontend"",""env"":""development"",""local"":""myapp-development-frontend"",""name"":""myapp-development-modules.frontend"",""policies"":[""arn:aws:iam::667740703053:policy/myapp-development-s3-policy20240119194422142000000001"",""arn:aws:iam::667740703053:policy/myapp-development-sqs-policy20240119194455036600000001""],""res"":""modules.frontend"",""type"":""role""}'
+"
+1705693837208,"END RequestId: 8c63110a-9827-4907-8875-40f9abb86f87
+"
+1705693837208,"REPORT RequestId: 8c63110a-9827-4907-8875-40f9abb86f87	Duration: 1.12 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 38 MB	
+"
